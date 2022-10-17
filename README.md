@@ -10,7 +10,7 @@
   Client’s personal information and records of financial transactions must be kept secure in accordance with the law. For example, personal identifiable information must be secured, or hefty fines can be incurred. 
 
 ### How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-	Some of the most commonly know security threats are information harvesting by eavesdroppers on a network, attacker impersonating another user or application, attackers cracking passwords, and the extraction of valuable stored information. Therefore, encryption is critical to mitigate these kinds of attacks.
+  Some of the most commonly know security threats are information harvesting by eavesdroppers on a network, attacker impersonating another user or application, attackers cracking passwords, and the extraction of valuable stored information. Therefore, encryption is critical to mitigate these kinds of attacks.
   Denial of service (DoS), injection, improper input validation, man in the middle, are just some of the potential threats that are commonly used to exploit vulnerabilities in unsecure software today. 
     
 ### How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
